@@ -33,7 +33,7 @@ public class WebStats
 
 		str = getWebPageSource();
 		//System.out.println(str);
-		System.out.println("-----------------------------------------------------------------");
+		System.out.println("-----------------------------------------------------------------xx");
 		title();
 		System.out.println("-----------------------------------------------------------------");
 		tagCheck();
